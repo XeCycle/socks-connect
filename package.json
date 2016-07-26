@@ -1,0 +1,14 @@
+{
+  "name": "socks-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "socks-connect": "index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "socksv5": "0.0.6"
+  }
+}
